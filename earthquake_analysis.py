@@ -37,6 +37,8 @@ def analisis_level():
 
     plt.savefig('近一年全球震级级别最高 top10.png')   #保存图片
     #plt.show()
+    
+## analisis_level()
 
 
 ## 分析近一年全球每月发生地震次数排名
@@ -62,6 +64,8 @@ def analysis_times():
     plt.savefig('近一年全球每月发生地震次数排名.png')
     # plt.show()
 
+## analysis_times()
+
 
 ## 分析近一年中全球各地地震地区分布占比情况
 def analysis_sites():
@@ -79,6 +83,8 @@ def analysis_sites():
 
     # plt.show()
 
+## analysis_sites()
+
 
 ## 分析近一年地震级别级数分布占比情况
 def analysis_level_scores():
@@ -95,6 +101,8 @@ def analysis_level_scores():
     plt.savefig('地震级别级数分布占比图.png') 
 
     # plt.show() 
+
+## analysis_level_scores()
 
 
 ## 制作地震高频地区分布词云图
@@ -134,4 +142,6 @@ def make_wordcloud():
     plt.axis('off')
     plt.savefig('地震高频地区分布词云制作图.png')
     # plt.show()
+    
+## make_wordcloud()
      

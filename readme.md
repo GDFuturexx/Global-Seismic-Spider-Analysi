@@ -2,7 +2,7 @@
 
 **前言**
 
-详细内容可见以下链接，文章首发于微信公众号【Python爬虫与全栈技术】
+详细内容可见以下链接，文章首发于微信公众号【一直学Python】
 
 > https://mp.weixin.qq.com/s/UJq7PByDH-StxWydyiWK3A
 
